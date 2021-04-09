@@ -94,3 +94,4 @@ void thongkeSinhvienTheotinh(Sinhvien *sv, int soluong){
 		}
 	}
 }
+void meunu(){
